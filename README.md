@@ -2,7 +2,7 @@
 
 Hi Coder.
 
-I'm coding for comparing numbers.
+I'm coded for comparing numbers.
 
 Now i know which numbers in upper ,lower or equal.
 
